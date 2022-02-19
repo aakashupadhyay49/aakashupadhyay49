@@ -1,4 +1,4 @@
- <img align="right" alt="Coding" width"400" src="https://cdn.dribbble.com/users/2131993/screenshots/15628381/media/affbd0a5886ea406a8216a4eea77cd15.png?compress=1&resize=1200x900&vertical=top"></img>
+
 <h1 align="center">Hi 👋, I'm Aakash Upadhyay</h1>
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
 
