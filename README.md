@@ -19,6 +19,8 @@
 - 💬 Ask me about **HTML, JAVASCRIPT,CSS**
 
 - 📫 How to reach me **aakashupadhyay49@gmail.com**
+- Hobbies **Investing**
+- Motivation **I get motivate by myself usually but i follow Ms Dhoni so his past always motivate me to tackle any problems**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/14b4O3hl_8Ak297PlXsI8ql7XeIMdGuQy/view?usp=sharing](https://drive.google.com/file/d/14b4O3hl_8Ak297PlXsI8ql7XeIMdGuQy/view?usp=sharing)
 
