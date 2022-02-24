@@ -1,42 +1,52 @@
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h2 align="center">
-    <abc>
-        <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  width="500">
-         <br>
-     <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-     <br> I'm Aakash, Full Stack Web Developer<br>
-    
-       
-    </abc>
-   </h2>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aakash Upadhyay</h1>
+<h3 align="center">I'm a Professional Full Stack Developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aakashupadhyay49&label=Profile%20views&color=0e75b6&style=flat" alt="aakashupadhyay49" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aakashupadhyay49" alt="aakashupadhyay49" /></a> </p>
+## 🙋‍♂️ About Me
 
-- 👨‍💻 All of my projects are available at [https://stoic-haibt-c0075b.netlify.app](https://stoic-haibt-c0075b.netlify.app)
+- 🔭 I’m currently working on **Frontend Project**
 
-- 💬 Ask me about **HTML, JAVASCRIPT,CSS**
+- 🌱 I’m currently learning **Full Sack web Development**
+
+- 👯 I’m looking to collaborate on **Remote Job**
+
+- 👨‍💻 All of my projects are available at **[coming soon](https://https://github.com/aakashupadhyay49)**
 
 - 📫 How to reach me **aakashupadhyay49@gmail.com**
-- Hobbies **Investing**
-- Motivation **I get motivate by myself usually but i follow Ms Dhoni so his past always motivate me to tackle any problems**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14b4O3hl_8Ak297PlXsI8ql7XeIMdGuQy/view?usp=sharing](https://drive.google.com/file/d/14b4O3hl_8Ak297PlXsI8ql7XeIMdGuQy/view?usp=sharing)
+- ⚡ Fun fact **I Love Coding**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aakashupadhyay49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aakashupadhyay49" height="30" width="40" /></a>
-<a href="https://fb.com/aakashupadhyay036" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aakashupadhyay036" height="30" width="40" /></a>
-<a href="https://instagram.com/aakashupadhyay49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aakashupadhyay49" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/aakash upadhyay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aakash upadhyay" height="30" width="40" /></a>
+## 🚀 Languages and Tools:
+
+<p align="left"> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+<!--     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>  -->
+    <a href="#" target="_blank"> <img src="https://img.icons8.com/rest-api/"/> </a> 
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
+<!--     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>  -->
+    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+## 📊 Connect with me:
+<p align="left">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakashupadhyay49&show_icons=true&locale=en&layout=compact" alt="aakashupadhyay49" /></p>
+<a href = "https://www.linkedin.com/in/aakash-upadhyay-316215210/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aakashupadhyay49&show_icons=true&locale=en" alt="aakashupadhyay49" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aakashupadhyay49&" alt="aakashupadhyay49" /></p>
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=aakashupadhyay49)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+## ❤ Views and Followers
+<a href="https://github.com/aakashupadhyay49/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=aakashupadhyay49">
+</a>
+<a href="https://github.com/aakashupadhyay49?tab=followers"><img src="https://img.shields.io/github/followers/aakashupadhyay49?label=Followers&style=social" alt="GitHub Badge"></a>
