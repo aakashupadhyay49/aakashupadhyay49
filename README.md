@@ -17,6 +17,8 @@
 - 📫 How to reach me **aakashupadhyay49@gmail.com**
 
 - ⚡ Fun fact **I Love Coding**
+-   Motivation Solving trickiest problems as much i can  and it keeps on motivating me to indulge in these problem solving habbit.
+-   Interest **INVESTING**
 
 ## 🚀 Languages and Tools:
 
