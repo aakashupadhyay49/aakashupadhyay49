@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **aakashupadhyay49@gmail.com**
 
-- ⚡ Fun fact **I Love Coding**
+- ⚡ Fun fact **:zap: Fun fact I :heart: Trading**
 -   Motivation  curiosity and the urge of being good at something is always my  motivation.
 -   Interest **INVESTING**
 
