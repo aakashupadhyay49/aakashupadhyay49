@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Frontend Project**
+- 🔭 I’m currently working on **projects built on MERN stack**
 
 - 🌱 I’m currently learning **Full Sack web Development**
 
